@@ -1,0 +1,52 @@
+img
+{
+    width: 300;
+    height: 310;
+}
+#result
+{
+    background-color: rgb(231, 170, 179);
+    border-style: ridge;
+    border-color: black;
+}
+
+#image_holder_1
+{
+    background-color: rgb(150, 207, 145);
+    border-style: ridge;
+    border-color: black;
+}
+#image_holder_2
+{
+    background-color: rgb(150, 207, 145);
+    border-style: ridge;
+    border-color: black;
+}
+#image_holder_3
+
+{
+    background-color: rgb(150, 207, 145);
+    border-style: ridge;
+    border-color: black;
+}
+#image_holder_4
+
+{
+    background-color: rgb(150, 207, 145);
+    border-style: ridge;
+    border-color: black;
+}
+#image_holder_5
+
+{
+    background-color: rgb(150, 207, 145);
+    border-style: ridge;
+    border-color: black;
+}
+
+#header
+{
+    background-color: rgb(231, 170, 179);
+    border-style: ridge;
+    border-color: black;
+}
